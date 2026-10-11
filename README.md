@@ -1,5 +1,3 @@
-# High-Throughput FastAPI Service
-
 A FastAPI + Redis + PostgreSQL service tuned toward **1,000,000 requests/min (~16,700 RPS)**.
 
 On a single 12-core machine (with the load generator running on the same box):
